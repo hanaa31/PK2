@@ -1,6 +1,6 @@
 h1 {
   
-  color: #ff0000;
+  color: black;
   font-size:30px;
   font-family:serif;
   background-color:#f3f372;
@@ -10,7 +10,7 @@ h1 {
 
 h2 {
   
-  color: blue;
+  color: lightskyblue;
   font-size:25px;
   font-family:serif;
   background-color:gray;
