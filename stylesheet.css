@@ -34,7 +34,7 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: blue;
   color: brown;
   height: 90px;
 }
@@ -46,12 +46,12 @@ li {
 }
 
 .main {
-  background-color: #bdf7f1;
+  background-color: aqua;
   height: 600px;
 }
 
 .footer {
-  background-color: #ceccf3;
+  background-color: cadetblue;
   height: 270px;
 }
 
