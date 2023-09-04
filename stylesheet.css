@@ -18,6 +18,15 @@ h2 {
   height:  80px;
 }
 
+li{
+    color:aquamarine
+  }
+  
+  .selected{
+    color:bisque
+  }
+
+
 p {
 
   color: #0000ff;
