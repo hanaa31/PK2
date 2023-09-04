@@ -22,15 +22,21 @@ li{
     color:aquamarine
   }
   
-  .selected{
+.selected{
     color:bisque
   }
 
 
-p {
-
-  color: #0000ff;
+li {
+  life-style: none;
+  float:left;
 }
+.header-logo{
+  font-size: 36px;
+  float:left;
+}
+  
+
 
 
   
