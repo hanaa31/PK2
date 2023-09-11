@@ -6,13 +6,6 @@ li{
     color:bisque
   }
 
-
-li {
-  list-style:none;
-  float:left;
-  padding: 33px 20px;
-}
-
 .header {
   background-color: lightskyblue;
   color: black;
@@ -25,15 +18,82 @@ li {
   padding: 20px 40px;
 }
 
+.header-list li {
+    list-style:none;
+    float:left;
+    padding: 33px 20px;
+  }
+  
+img {
+    height: 80px;
+    width: 90px;
+    float: right;
+}
+
 .main {
-  background-color: lightblue;
-  height: 600px;
+    padding: 60px 40px;
+}
+  
+
+.copy-container h1 {
+    font-size: 80px;
+    margin-bottom: 5px;
+}
+  
+.copy-container h2 {
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.copy-container span {
+    color:lightblue;
+}
+
+.contents {
+    height: 500px;
+    margin-top: 100px;
+}
+  
+
+.section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+}
+  
+  
+.contents-item {
+    float: left;
+    margin-right: 20px;
+}
+
+.contents-item p {
+    font-size: 15px;
+    margin-top: 10px;
 }
 
 .footer {
   background-color: slategray;
   height: 270px;
+  padding: 40px;
 }
 
+.footer-logo {
+    font-size: 32px;
+    float: left;
+}
+  
+  /* Gantikan float property footer-list */
+.footer-list {
+    float: right;
+}
+  
+  /* Tambahkan CSS untuk tag <li> kedalam footer-list */
+.footer-list li {
+    padding-bottom: 20px;
+    list-style:none;
+    color:aquamarine ;
+}
 
   
