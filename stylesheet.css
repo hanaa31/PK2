@@ -35,18 +35,18 @@ img {
 }
   
 
-.copy-container h1 {
-    font-size: 80px;
-    margin-bottom: 5px;
-}
-  
-.copy-container h2 {
-    font-size: 40px;
-    margin-top: 10px;
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 
-.copy-container span {
-    color:lightblue;
+/* Tambahkan CSS untuk top-wrapper */
+.main {
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+  color: white;
 }
 
 .contents {
