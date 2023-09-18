@@ -61,10 +61,41 @@ img {
   margin-bottom: 10px;
 }
 
-/* Tambahkan CSS untuk tag <p> didalam class top-wrapper */
 .main p {
   opacity: 0.7;
   margin-bottom: 3px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+
+.twitter {
+  background-color: #55acee;
+}
+
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+
+.btn-wrapper p {
+  margin: 10px 0;
 }
 
 .section-title {
