@@ -47,6 +47,7 @@ img {
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
+    text-align: center;
 }
 
 .contents {
@@ -71,6 +72,12 @@ img {
   color: white;
   display: inline-block;
   opacity: 0.8;
+    border-radius: 4px;
+}
+
+/* Tambahkan CSS untuk btn pada saat ditunjuk */
+.btn:hover {
+  opacity: 1;
 }
 
 .signup {
@@ -96,6 +103,10 @@ img {
 
 .btn-wrapper p {
   margin: 10px 0;
+}
+
+.fa {
+  margin-right: 5px;
 }
 
 .section-title {
