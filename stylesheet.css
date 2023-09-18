@@ -41,13 +41,23 @@ img {
   margin: 0 auto;
 }
 
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
 /* Tambahkan CSS untuk top-wrapper */
 .main {
   padding: 180px 0 100px 0;
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
-    text-align: center;
+  /* Ubah nilai property text-align ke center */
+  text-align: center;
 }
 
 .contents {
