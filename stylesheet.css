@@ -53,7 +53,19 @@ img {
     height: 500px;
     margin-top: 100px;
 }
-  
+
+.main h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+/* Tambahkan CSS untuk tag <p> didalam class top-wrapper */
+.main p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
 
 .section-title {
     border-bottom: 2px solid #dee7ec;
