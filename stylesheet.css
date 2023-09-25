@@ -4,7 +4,7 @@ li{
   
 .selected{
     color:bisque
-  }
+}
 
 header {
   height: 65px;
@@ -50,7 +50,6 @@ header {
     padding: 60px 40px;
 }
   
-
 .container {
   width: 1170px;
   padding: 0 15px;
